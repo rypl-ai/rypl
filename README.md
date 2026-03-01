@@ -21,10 +21,10 @@ Auto-reply to buyers, hide spam, detect intent, boost ROAS.
 
 ## The Problem
 
-Every Facebook advertiser faces the **Comment Tax**:
+Every Facebook advertiser faces the **Comment Tax** — and most don't even realize it. Effective social media comment management isn't optional anymore; it's a critical part of facebook page automation:
 
-- Negative comments on ads increase CPC by **40–85%** — Facebook's algorithm treats poor comment sentiment as a quality signal
-- Buyer questions go unanswered for hours — by then, the lead is gone
+- Negative comments on ads can increase CPC by **40–85%** — Facebook's algorithm treats poor comment sentiment as a quality signal
+- Buyer questions go unanswered for hours — by then, the lead is gone. AI auto reply on Facebook solves this instantly
 - Manual moderation doesn't scale: a single ad can generate 100+ comments per day
 - Competitor spam and trolls erode your brand reputation in public
 
@@ -64,10 +64,13 @@ Control all your AI agents, replies, and conversations from one dashboard — or
 ### Smart Tracking
 See which replies drive sales. Track conversion data, response rates, and engagement metrics to optimize your ad ROAS.
 
+### Post Context Analysis
+AI reads the images, text, and context of your ad creative to craft replies that are relevant to what's being advertised — not generic responses.
+
 ### Meta Official API
 Built on Meta's Official Graph API — fully compliant, zero ban risk. No browser hacks or scraping workarounds.
 
-### Easy Setup
+### Easy Control
 Set your brand voice, upload product info to the knowledge base, and activate. Your AI agent is live in minutes, not days.
 
 ---
@@ -115,6 +118,7 @@ Upload your business data so the AI replies with accurate, specific information 
 | Brand Voice | TXT | Tone guidelines, terminology, do's and don'ts |
 | Website | URL | Your store or landing page for real-time data |
 | Database | Structured data | Customer segments, inventory levels |
+| User Comments | Logs | Previous customer interactions and feedback |
 | Conversation History | Logs | Past interactions for context continuity |
 
 ---
@@ -148,15 +152,15 @@ How Rypl compares to other Facebook comment management tools:
 
 | Feature | **Rypl** | NapoleonCat | ManyChat | AgoraPulse | ReplyZen |
 |---------|:--------:|:-----------:|:--------:|:----------:|:--------:|
-| **Facebook ad-specific** | ✅ | ❌ General social | ❌ Chatbot flows | ❌ General social | ❌ General |
+| **Facebook ad-specific** | ✅ | ❌ General social | ❌ Chatbot flows | ❌ General social | ⚠️ FB & IG comments |
 | **AI auto-replies** | ✅ Context-aware | ❌ Rules-based | ⚠️ Flow-based | ❌ Manual templates | ⚠️ Basic AI |
 | **Moderation speed** | ~1.7s | Minutes | N/A | Minutes | Variable |
 | **Intent detection** | ✅ 8 categories | ❌ | ❌ | ❌ | ❌ |
 | **Knowledge base** | ✅ PDF, CSV, URLs | ❌ | ❌ | ❌ | ❌ |
 | **Conversation memory** | ✅ (Ultra) | ❌ | ❌ | ❌ | ❌ |
 | **Multi-language** | ✅ All languages | ⚠️ Limited | ⚠️ Limited | ⚠️ Limited | ⚠️ Limited |
-| **Meta Official API** | ✅ | ✅ | ✅ | ✅ | ⚠️ Unclear |
-| **Starting price** | $19/mo | ~$32/mo | $15/mo | $49/mo | $29/mo |
+| **Meta Official API** | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **Starting price** | $19/mo | $79/mo | $15/mo | $79/user/mo | $29/mo |
 
 ---
 
