@@ -1,15 +1,15 @@
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-rypl.is-593bed?style=for-the-badge)](https://www.rypl.is)
-[![Product Hunt](https://img.shields.io/badge/Product%20Hunt-Featured-DA552F?style=for-the-badge&logo=producthunt&logoColor=white)](https://www.producthunt.com/posts/rypl)
-[![Documentation](https://img.shields.io/badge/Docs-rypl--ai.github.io-57ddae?style=for-the-badge)](https://rypl-ai.github.io)
+[![Product Hunt](https://img.shields.io/badge/Product%20Hunt-Rypl-DA552F?style=for-the-badge&logo=producthunt&logoColor=white)](https://www.producthunt.com/products/rypl)
+[![Documentation](https://img.shields.io/badge/Docs-rypl--ai.github.io%2Fdocs-57ddae?style=for-the-badge)](https://rypl-ai.github.io/docs/)
 
 # Rypl
 
-**AI-powered Facebook ad comment management.**
-Auto-reply to buyers, hide spam, detect intent, boost ROAS.
+**AI replies and moderation for Facebook, Instagram and TikTok ad comments.**
+Answers buyers in your brand voice, hides spam and hate, and flags what needs a person.
 
-<img src="assets/banner.png" alt="Rypl — AI Facebook Ad Comment Management" width="800" />
+<img src="assets/banner.png" alt="Rypl: AI replies and moderation for ad comments" width="800" />
 
 <br />
 
@@ -19,182 +19,131 @@ Auto-reply to buyers, hide spam, detect intent, boost ROAS.
 
 ---
 
-## The Problem
+## What Rypl is
 
-Every Facebook advertiser faces the **Comment Tax** — and most don't even realize it. Effective social media comment management isn't optional anymore; it's a critical part of facebook page automation:
+Rypl is AI software that replies to and moderates comments and DMs on Facebook and Instagram, plus comments on TikTok ads. Brands running paid social use it so buyers get answers fast and spam comes down before it hurts the ad. It connects through the official Meta Graph API and TikTok Marketing API: no scraping, no browser automation.
 
-- Negative comments on ads can increase CPC by **40–85%** — Facebook's algorithm treats poor comment sentiment as a quality signal
-- Buyer questions go unanswered for hours — by then, the lead is gone. AI auto reply on Facebook solves this instantly
-- Manual moderation doesn't scale: a single ad can generate 100+ comments per day
-- Competitor spam and trolls erode your brand reputation in public
+| Platform | What Rypl handles |
+|---|---|
+| **Facebook** | Comments on ads (including dark posts) and organic Page posts, Messenger DMs |
+| **Instagram** | Comments on ads and posts, Direct messages |
+| **TikTok** | Comments on TikTok ads. Organic TikTok posts are not supported |
 
-**The result:** wasted ad spend, lost leads, and damaged brand perception.
+Every platform is on every plan. No plan limits the number of comments.
 
 ---
 
-## Key Metrics
+## Why ad comments need it
 
-<div align="center">
+In [RYPL's Q3 2026 data](https://www.rypl.is/blog/ad-comment-statistics-2026) on advertisers' Facebook and Instagram ads and posts:
 
-| ~1.7s avg moderation | <60s AI reply | +10% ROAS | 24/7 automated | All languages |
-|:---:|:---:|:---:|:---:|:---:|
-| Spam hidden before anyone sees it | Every comment gets a reply | Average improvement in first month | Nights, weekends, holidays | Auto-detects and responds in any language |
+- **40%** of the comments RYPL's AI analyzed were questions, and **38%** showed buying intent: the price, availability, specs or how to get it.
+- **18%** were negative in tone, and **3%** accused the brand of a scam.
+- **70%** were not in English.
 
-</div>
+A comment section like that needs answers in minutes, in the commenter's language, at any hour, and spam taken down before the next viewer scrolls past it.
 
 ---
 
 ## Features
 
-### AI Comments & Messages
-Auto-reply to ad comments and DMs with context-aware AI. Convert 28% more conversations into sales while cutting manual work to zero.
+### On every plan
+- **AI replies to comments and DMs.** Agents answer in your brand voice, in the language the person wrote in.
+- **Knowledge base.** Agents answer from your website, files and Q&A instead of guessing.
+- **Spam, hate and banned-word filters.** Spam is flagged in about 1.7 seconds on average and hidden within seconds (RYPL's own measurement).
+- **Filter by tone.** Leave negative comments alone (the default), or hide or delete them. On TikTok, comments can be hidden but not deleted.
+- **Intent detection.** Every comment is read for what it wants: price, shipping, sizes, complaint, praise.
+- **One inbox with a Needs attention queue.** Complaints, urgent questions and rule matches wait for a person. Each reply shows which agent wrote it.
+- **Block an author.** Every future comment from that person on the channel is hidden.
 
-### Multi Accounts
-Connect multiple Facebook Pages, customize AI agents per client — ideal for agencies managing 5, 20, or unlimited pages.
+### From Pro
+- **Reads the post.** The agent looks at the post or ad (image, video, copy) before replying.
+- **Moderation rules in plain words.** Write a rule like "hide comments with links to other shops" and choose hide, delete, reply or review first.
+- **Reply rules.** A condition and an action: let an agent answer, send a ready reply, or skip.
+- **Thank-you replies to praise.**
 
-### Works 24/7
-Your AI agents never sleep. Every comment gets a reply in under 60 seconds — nights, weekends, holidays. No leads lost to time zones.
-
-### Fast Moderation
-Spam and negative comments detected and hidden in ~1.7 seconds. Protect your brand reputation automatically across all ad campaigns.
-
-### Managed AI Agents
-Control all your AI agents, replies, and conversations from one dashboard — organized, prioritized, and easy to track.
-
-### Smart Tracking
-See which replies drive sales. Track conversion data, response rates, and engagement metrics to optimize your ad ROAS.
-
-### Post Context Analysis
-AI reads the images, text, and context of your ad creative to craft replies that are relevant to what's being advertised — not generic responses.
-
-### Meta Official API
-Built on Meta's Official Graph API — fully compliant, zero ban risk. No browser hacks or scraping workarounds.
-
-### Easy Control
-Set your brand voice, upload product info to the knowledge base, and activate. Your AI agent is live in minutes, not days.
-
----
-
-## How It Works
-
-### 1. Connect
-Link your Facebook Pages via secure Meta OAuth. Select which pages and ad accounts to manage.
-
-### 2. Configure
-Set your brand voice and tone. Upload your knowledge base — product catalogs (PDF), FAQ answers (CSV), brand guidelines, website links. Define moderation rules for spam and negative comments.
-
-### 3. Activate
-Your AI agent goes live immediately. It monitors every comment across all your ads, hiding spam in ~1.7 seconds and replying to genuine questions in under 60 seconds — 24/7.
-
----
-
-## Intent Detection
-
-Rypl's AI classifies every incoming comment into one of 8 intent categories, so you know exactly what your audience wants:
-
-| Intent | Description |
-|--------|-------------|
-| **Purchase** | Ready-to-buy signals ("I want this", "How do I order?") |
-| **Price Inquiry** | Asking about cost, discounts, availability |
-| **Return Request** | Refund or exchange inquiries |
-| **Positive Feedback** | Compliments, testimonials, happy customers |
-| **Complaint** | Negative experiences, issues, frustration |
-| **Support** | Help requests, technical questions |
-| **Product Info** | Feature questions, specifications, compatibility |
-| **Shipping** | Delivery times, tracking, shipping costs |
-
-High-value intents (Purchase, Price Inquiry) are prioritized and answered instantly with accurate product data from your knowledge base.
-
----
-
-## Knowledge Base
-
-Upload your business data so the AI replies with accurate, specific information — not generic responses:
-
-| Source Type | Format | Example |
-|------------|--------|---------|
-| Product Catalog | PDF | Full product listings with prices, specs, images |
-| FAQ Answers | CSV | Pre-approved answers to common questions |
-| Brand Voice | TXT | Tone guidelines, terminology, do's and don'ts |
-| Website | URL | Your store or landing page for real-time data |
-| Database | Structured data | Customer segments, inventory levels |
-| User Comments | Logs | Previous customer interactions and feedback |
-| Conversation History | Logs | Past interactions for context continuity |
+### On Ultra
+- **Conversation memory.** The agent remembers earlier conversations with the same person.
 
 ---
 
 ## Pricing
 
-| | **Simple** | **Pro** ⭐ | **Ultra** |
-|--|:--:|:--:|:--:|
-| **Best for** | Solopreneurs getting started | Teams serious about ROAS | Agencies & high-volume brands |
+Flat monthly price. No plan limits the number of comments. 7-day free trial on every plan.
+
+| | **Simple** | **Pro** (most chosen) | **Ultra** |
+|---|:--:|:--:|:--:|
 | **Monthly** | $19/mo | $49/mo | $89/mo |
-| **Yearly** | $15/mo | $39/mo | $71/mo |
-| **AI Model** | GPT-4 mini | GPT-4.1 | GPT-5 (latest) |
-| **FB Accounts** | 1 | Up to 5 | Unlimited |
+| **Billed yearly** | $15/mo ($182/year) | $39/mo ($470/year) | $71/mo ($854/year) |
+| **Accounts** | 1 | Up to 5 | Unlimited |
 | **Pages** | Up to 3 | Up to 20 | Unlimited |
-| **AI Agents** | 2 | Unlimited | Unlimited |
-| **Replies** | Basic templates | Context-aware | Full conversational memory |
-| **Intent Detection** | — | ✅ | ✅ |
-| **Knowledge Base** | — | ✅ | ✅ |
-| **Post Content Analysis** | — | ✅ | ✅ |
-| **Conversation Memory** | — | — | ✅ |
-| **Priority Support** | — | — | ✅ |
+| **AI agents** | 1 | Unlimited | Unlimited |
+| **Replies to comments and DMs** | ✅ | ✅ | ✅ |
+| **Knowledge base** | ✅ | ✅ | ✅ |
+| **Intent detection** | ✅ | ✅ | ✅ |
+| **Spam, hate and banned-word filters** | ✅ | ✅ | ✅ |
+| **Reads the post** | | ✅ | ✅ |
+| **Moderation rules and reply rules** | | ✅ | ✅ |
+| **Thank-you replies** | | ✅ | ✅ |
+| **AI** | Smart AI | Smart AI | Most powerful AI |
+| **Conversation memory** | | | ✅ |
+| **Priority support** | | | ✅ |
 | | [Start trial →](https://app.rypl.is/signup) | [Start trial →](https://app.rypl.is/signup) | [Start trial →](https://app.rypl.is/signup) |
 
-All plans include a **7-day free trial**. Cancel anytime.
+Rypl runs on the latest OpenAI models and upgrades them automatically. Full details: [rypl.is/pricing](https://www.rypl.is/pricing).
 
 ---
 
-## Comparison
+## Speed and results
 
-How Rypl compares to other Facebook comment management tools:
+These are RYPL's own measurements:
 
-| Feature | **Rypl** | NapoleonCat | ManyChat | AgoraPulse | ReplyZen |
-|---------|:--------:|:-----------:|:--------:|:----------:|:--------:|
-| **Facebook ad-specific** | ✅ | ❌ General social | ❌ Chatbot flows | ❌ General social | ⚠️ FB & IG comments |
-| **AI auto-replies** | ✅ Context-aware | ❌ Rules-based | ⚠️ Flow-based | ❌ Manual templates | ⚠️ Basic AI |
-| **Moderation speed** | ~1.7s | Minutes | N/A | Minutes | Variable |
-| **Intent detection** | ✅ 8 categories | ❌ | ❌ | ❌ | ❌ |
-| **Knowledge base** | ✅ PDF, CSV, URLs | ❌ | ❌ | ❌ | ❌ |
-| **Conversation memory** | ✅ (Ultra) | ❌ | ❌ | ❌ | ❌ |
-| **Multi-language** | ✅ All languages | ⚠️ Limited | ⚠️ Limited | ⚠️ Limited | ⚠️ Limited |
-| **Meta Official API** | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **Starting price** | $19/mo | $79/mo | $15/mo | $79/user/mo | $29/mo |
+| Metric | Value | What it measures |
+|---|---|---|
+| **~1.7 s** | Spam flagged | The AI's average analysis time for a comment it then hides (Q3 2026). The hide itself lands within seconds: on Facebook, half of hidden comments are hidden within 13 seconds of being posted, and about 7 of those seconds are Meta delivering the comment. |
+| **< 60 s** | Replies | On the default *Immediately* setting, 97% of Facebook replies go out within a minute. You can also have agents wait a few minutes, an hour or a day. |
+| **+10%** | ROAS | Average lift in the first month, measured across RYPL accounts. |
+| **+28%** | Conversations to sales | With intent-based replies, from early beta data. |
 
 ---
 
-## Use Cases
+## How it works
 
-### E-commerce
-Auto-reply to "How much?", "Is this available?", and "Does it come in blue?" with real product data from your catalog. Hide competitor spam. Convert comment traffic into checkout completions.
-
-### Agencies
-Manage 20+ client Facebook Pages from one dashboard. Each client gets their own AI agent with custom brand voice, knowledge base, and moderation rules. Scale without hiring.
-
-### B2B & Services
-Handle appointment inquiries, pricing questions, and support tickets from ad comments automatically. Route high-intent leads to your sales team.
-
-### CPA & Affiliate
-Protect ad comments from competitor sabotage and negative spam. Maximize conversion rates from paid traffic with instant, on-brand replies.
+1. **Connect.** Link your Facebook Pages and Instagram accounts through Meta, and your TikTok ad accounts through TikTok. Pick the pages and accounts Rypl should handle.
+2. **Set up an agent.** Give it your brand voice and a knowledge base: your website, files and Q&A.
+3. **Go live.** New comments and DMs get an answer, spam and hate are hidden, and anything that needs a person lands in Needs attention.
 
 ---
 
-## Built With
+## How Rypl compares
+
+On every plan, Rypl's AI writes and posts replies and hides spam on its own, on Facebook, Instagram and TikTok ads, from $19/mo flat with no comment limit. Competitor facts are from each vendor's site, checked October 2026; each full comparison links its sources.
+
+| Tool | Compared with Rypl | Starts at | Full comparison |
+|---|---|---|---|
+| **ReplyZen** | Meters every AI reply (500 a month on the $29 plan), so a busy month pushes you up a tier | $29/mo for 500 AI replies, up to $249/mo | [Rypl vs ReplyZen](https://www.rypl.is/blog/rypl-vs-replyzen) |
+| **ManyChat** | Built for DM funnels: public comment replies are pre-written lines, and its AI reaches comments only on Instagram, in beta | Free / $17+ per month, by active contacts | [Rypl vs ManyChat](https://www.rypl.is/blog/rypl-vs-manychat) |
+| **NapoleonCat** | Automatic hiding only on Expert ($119/mo, plus $29/mo for AI tagging past 100 free actions); its AI drafts replies that wait for a person to send them | $79/mo (5 profiles, billed yearly) | [Rypl vs NapoleonCat](https://www.rypl.is/blog/rypl-vs-napoleoncat) |
+| **Agorapulse** | Per-user pricing, ad comments from Professional, and no AI replies for comments | $79+ per user; ad comments from $119 per user | [Rypl vs Agorapulse](https://www.rypl.is/blog/rypl-vs-agorapulse) |
+
+Rypl is built for comments and DMs, not publishing, scheduling or listening. Teams that need those keep their suite or flow builder and let Rypl answer the comments. All comparisons: [rypl.is/compare](https://www.rypl.is/compare).
+
+---
+
+## Who uses it
+
+- **E-commerce brands.** Price, size, stock and shipping questions answered from the knowledge base; scam and competitor-link comments hidden.
+- **Agencies.** A separate agent, knowledge base and rules per client, from one dashboard.
+- **Lead-gen and services.** Questions under lead ads answered while the person is still on the ad; complaints routed to Needs attention.
+- **Affiliates and media buyers.** Spam and sabotage taken off high-spend ads within seconds.
+
+---
+
+## Featured on
 
 <div align="center">
 
-Meta Graph API · OpenAI · Cloudflare · Supabase · Jina · Anthropic
-
-</div>
-
----
-
-## Featured On
-
-<div align="center">
-
-[Product Hunt](https://www.producthunt.com/posts/rypl) · [Code.Market](https://code.market) · [StartupFame](https://startupfa.me) · [There's An AI For That](https://theresanaiforthat.com)
+[Product Hunt](https://www.producthunt.com/products/rypl) · [There's An AI For That](https://theresanaiforthat.com/ai/rypl/) · [SaaSHub](https://www.saashub.com/rypl) · [Code.Market](https://code.market)
 
 </div>
 
@@ -204,10 +153,12 @@ Meta Graph API · OpenAI · Cloudflare · Supabase · Jina · Anthropic
 
 | | |
 |---|---|
-| **Website** | [rypl.is](https://www.rypl.is) |
+| **Website** | [www.rypl.is](https://www.rypl.is) |
 | **App** | [app.rypl.is](https://app.rypl.is) |
-| **Documentation** | [rypl-ai.github.io](https://rypl-ai.github.io) |
-| **Blog** | [blog.rypl.is](https://blog.rypl.is) |
+| **Documentation** | [rypl-ai.github.io/docs](https://rypl-ai.github.io/docs/) |
+| **Guides** | [www.rypl.is/guides](https://www.rypl.is/guides) |
+| **Blog** | [www.rypl.is/blog](https://www.rypl.is/blog) |
+| **LinkedIn** | [linkedin.com/company/ryplis](https://www.linkedin.com/company/ryplis) |
 | **Contact** | [hey@rypl.is](mailto:hey@rypl.is) |
 
 ---
