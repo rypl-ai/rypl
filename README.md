@@ -15,6 +15,8 @@ Answers buyers in your brand voice, hides spam and hate, and flags what needs a 
 
 ### [Start your 7-day free trial →](https://app.rypl.is/signup)
 
+*Last updated: October 11, 2026*
+
 </div>
 
 ---
@@ -58,7 +60,7 @@ A comment section like that needs answers in minutes, in the commenter's languag
 
 ### From Pro
 - **Reads the post.** The agent looks at the post or ad (image, video, copy) before replying.
-- **Moderation rules in plain words.** Write a rule like "hide comments with links to other shops" and choose hide, delete, reply or review first.
+- **Moderation rules in plain words.** Write a rule like "hide comments with links to other shops" and choose what happens: hide, delete, flag it for you, or leave it for you to answer. New rules can start in Review first.
 - **Reply rules.** A condition and an action: let an agent answer, send a ready reply, or skip.
 - **Thank-you replies to praise.**
 
@@ -136,6 +138,19 @@ Rypl is built for comments and DMs, not publishing, scheduling or listening. Tea
 - **Agencies.** A separate agent, knowledge base and rules per client, from one dashboard.
 - **Lead-gen and services.** Questions under lead ads answered while the person is still on the ad; complaints routed to Needs attention.
 - **Affiliates and media buyers.** Spam and sabotage taken off high-spend ads within seconds.
+
+---
+
+## Learn more on rypl.is
+
+- [Facebook comment moderation tool](https://www.rypl.is/facebook-comment-moderation-tool): AI replies and moderation for Facebook ads and posts
+- [Instagram comment moderation tool](https://www.rypl.is/instagram-comment-moderation-tool): Instagram ads, posts and DMs
+- [TikTok ad comment moderation tool](https://www.rypl.is/tiktok-comment-moderation-tool): comments on TikTok ads
+- [How to hide comments on Facebook ads automatically](https://www.rypl.is/blog/hide-comments-on-facebook-ads)
+- [How to auto-reply to Instagram comments](https://www.rypl.is/guides/auto-reply-to-instagram-comments)
+- [How to stop spam comments on TikTok ads](https://www.rypl.is/guides/stop-spam-comments-on-tiktok-ads)
+- [Ad comment statistics 2026](https://www.rypl.is/blog/ad-comment-statistics-2026): what people write under ads, RYPL data (CC BY 4.0)
+- [All comment management guides](https://www.rypl.is/guides) · [Ad comment glossary](https://www.rypl.is/glossary)
 
 ---
 
