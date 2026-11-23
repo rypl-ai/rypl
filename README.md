@@ -15,7 +15,7 @@ Answers buyers in your brand voice, hides spam and hate, and flags what needs a 
 
 ### [Start your 7-day free trial →](https://app.rypl.is/signup)
 
-*Last updated: November 19, 2026*
+*Last updated: November 23, 2026*
 
 </div>
 
@@ -29,7 +29,7 @@ Rypl (also written RYPL) is AI software that replies to and moderates comments a
 |---|---|
 | **Facebook** | Comments on ads (dark posts included) and Page posts, Messenger DMs |
 | **Instagram** | Comments on ads, posts and Reels, Direct messages (Story replies arrive as DMs) |
-| **TikTok** | Comments on TikTok ads only. Organic TikTok posts and TikTok messages are not supported |
+| **TikTok** | Comments on TikTok ads, and on your own TikTok posts once the TikTok account is connected (Spark Ads included). TikTok messages are not supported |
 
 Every platform is on every plan, and no plan limits the number of comments. Rypl works with Facebook Pages, not Groups.
 
@@ -134,7 +134,7 @@ Step-by-step help for every screen is in the [Rypl documentation](https://www.ry
 AI software that replies to and moderates comments and DMs on Facebook and Instagram, plus comments on TikTok ads. AI agents answer buyers from your knowledge base, moderation hides spam and hate, and complaints wait for a person in one Inbox.
 
 **Which platforms does it support?**
-Facebook Pages (ads, posts and Messenger), Instagram professional accounts (ads, posts, Reels and Direct messages) and TikTok ad comments. On TikTok, Rypl handles ad comments only, and since TikTok doesn't allow deleting other people's comments, it hides them instead.
+Facebook Pages (ads, posts and Messenger), Instagram professional accounts (ads, posts, Reels and Direct messages) and TikTok (ad comments, plus comments on a connected TikTok account's own posts). TikTok doesn't allow deleting other people's comments, so on TikTok Rypl hides them instead.
 
 **How much does it cost?**
 $19, $49 or $89 a month, or $182, $470 or $854 billed yearly, with a 7-day free trial and no limit on comments. Plans differ in accounts (1, 5, unlimited), channels with AI replies (3, 20, unlimited), agents and features.
